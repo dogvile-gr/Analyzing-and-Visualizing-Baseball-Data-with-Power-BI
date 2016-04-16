@@ -25,6 +25,10 @@ This information is available free of charge from and is copyrighted
 by Retrosheet.  Interested parties may contact Retrosheet at 
 http://www.retrosheet.org."
 
+![alt tag](https://github.com/dogvile-gr/Analyzing-and-Visualizing-Baseball-Data-with-Power-BI/blob/master/images/tables.jpg)
+
+
+
 
 
 
