@@ -7,7 +7,8 @@ it will be developed a dashboard based on Power BI.
 
 
 
-As second step R integrated in Power BI it will be analyzed trends and statistics from the data.
+As a second step, it will be analyzed the trends and statistics from the data using integrated tools
+such as R and the appropriated packages.
 
 "Baseball Databank is a compilation of historical baseball data in a
 convenient, tidy format, distributed under Open Data terms.
