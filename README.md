@@ -2,6 +2,11 @@
 
 In this repository it will be used Lahman Baseball Database (src: http://www.seanlahman.com/baseball-archive/statistics/) and 
 it will be developed a dashboard based on Power BI.
+
+![alt tag](https://github.com/dogvile-gr/Analyzing-and-Visualizing-Baseball-Data-with-Power-BI/blob/master/images/slicer.jpg)
+
+
+
 As second step R integrated in Power BI it will be analyzed trends and statistics from the data.
 
 "Baseball Databank is a compilation of historical baseball data in a
